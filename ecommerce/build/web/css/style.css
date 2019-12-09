@@ -1,0 +1,25 @@
+/*Empty file for CSS*/
+#rodape{
+    background: #c0C0C0;
+    color: #ffffff;
+}
+
+#titulo{
+    background: #025aa5;
+    color: #ffffff;
+}
+
+#iconCarrinho{
+    width: 30px;
+    height: 30px;
+}
+
+#novo{
+    color: #ffffff;
+    size: 30px;
+}
+
+#iconHome{
+    width: 30px;
+    height: 30px;
+}
