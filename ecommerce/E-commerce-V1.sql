@@ -1,4 +1,4 @@
-use ecommerce;
+use e-commerce;
 
 insert into tblProduto values (null, 'PLA Azul','Cor: Blue / Azul. Conteúdo: Caixa + Carretel + 1kg de Filamento. Extraído e purificado a partir de grãos de milho; Alta rigidez, bom brilho e transparência; Adequado para imprimir modelos maiores; A resistência é 10 vezes mais que o PLA no mercado. Sem problemas de desenho com fio, a superfície das impressões será mais suave e mais delicada; Não há problema de quebra. Fórmula avançada. Superior a todos os PLA do mercado.',120.0, 'filamento', 'images/plaazul.png', null, null);
 insert into tblProduto values (null, 'PLA Cian','Cor: Light Blue / Azul claro. Conteúdo: Caixa + Carretel + 1kg de Filamento. Extraído e purificado a partir de grãos de milho; Alta rigidez, bom brilho e transparência; Adequado para imprimir modelos maiores; A resistência é 10 vezes mais que o PLA no mercado. Sem problemas de desenho com fio, a superfície das impressões será mais suave e mais delicada; Não há problema de quebra. Fórmula avançada. Superior a todos os PLA do mercado.',120.0, 'filamento', 'images/placian.png', null, null);
